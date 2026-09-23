@@ -1,0 +1,4 @@
+MNIST.zip
+images/
+__pycache__/
+*.pyc
